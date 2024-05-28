@@ -38,4 +38,15 @@ After placement comes routing, but before routing the signals we need to route t
 To deliver the clock to all sequential elements with minimum skew and in good shape. Clock skew means the arrival of the clock at different components at different times. Usually a tree like structure in which the clock source are the roots and the clocked elements are the leaves.
 
 ![Screenshot 2024-05-27 203024](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/966ebbf1-8bd8-4a8c-a890-1e1a14ed0b6c)
+# 5. Signal Routing
+Implement the interconnect using the available metal layers.For each (metal) layer the pdk defines the thickness, the pitch and the minimum width, also it defines the vias that can be used to connect different wire segments on different layers together.Sky130 pdk defines 6 routing layers. The lowest layer is called local interconnect. The following 5 layers over the local interconnect are aluminium layers.
 
+![Screenshot 2024-05-28 100938](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/5ea717f8-ddfd-499c-8717-305f90aca20f)
+
+**Most routers a grid router:** They construct the routing grid out of the metal layer tracks
+
+Routing grid is huge therefore a divide and conquer technique is applied.
++ **Global routing** : generates routing guides
++ **Detailed routing** : uses the routing guides to implement the actual wiring
+  # 6. Sign off
+  ![Screenshot 2024-05-28 101753](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/b6e1763b-9225-4797-a1ee-1c17450d66f0)
