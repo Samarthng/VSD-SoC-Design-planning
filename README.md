@@ -52,3 +52,28 @@ Routing grid is huge therefore a divide and conquer technique is applied.
   ![Screenshot 2024-05-28 101753](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/b6e1763b-9225-4797-a1ee-1c17450d66f0)
   
 # Day 1 Labs : Open Lane directory structure in detail
+
+* Start by verifying the functionality of the virtual machine.
+* Once confirmed, you should observe a terminal interface within the virtual environment.
+
+![VirtualBox_vsdworkshop_28_05_2024_20_12_00](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/990c4110-58be-4b33-98dc-5de68ac3e4c3)
+
+* Before proceeding, navigate to the following directory: cd Desktop/work/tools/openlane_working_dir/openlane.
+* Next, execute the Docker command.
+
+![VirtualBox_vsdworkshop_28_05_2024_20_26_02](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/c69d2b09-69bb-4991-a187-36eddf8d4fff)
+
+* Proceed by running the script: flow.tcl -interactive.  This script contains instructions on how the different tools within openlane should collaborate and details on running the flow systematically.
+* Then terminal look like below image
+
+![VirtualBox_vsdworkshop_28_05_2024_20_32_37](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/2cc10601-c59b-4d73-ae20-861d4d0e1b4e)
+
+* Then run 2 command : 1. package require openlane 0.9 and 2. prep -design picorv32a
+* After running above command the terminal looks like below image
+
+![VirtualBox_vsdworkshop_28_05_2024_20_49_22](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/29633264-0271-492a-8064-7ab0664a23e2)
+
+* Now we are ready to initiate the synthesis process and generate a netlist from the design. Execute the command "run_synthesis" 
+* It will take few minutes to complete Synthesis
+
+![VirtualBox_vsdworkshop_28_05_2024_20_54_22](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/5adb6697-ea6c-4e67-99b4-8de9fca613fa)
