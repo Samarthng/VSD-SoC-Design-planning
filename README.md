@@ -50,3 +50,5 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 + **Detailed routing** : uses the routing guides to implement the actual wiring
   # 6. Sign off
   ![Screenshot 2024-05-28 101753](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/b6e1763b-9225-4797-a1ee-1c17450d66f0)
+  
+# Day 1 Labs : Open Lane directory structure in detail
