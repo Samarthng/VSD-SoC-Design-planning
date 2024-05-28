@@ -25,3 +25,17 @@
 *  **Power planning:** A chip is powered by multiple VDD and GND pins. The power pins are connected to all components through rings and vertical and horizontal metal straps.Such parallel structures are meant to reduce the resistance and hence the IR drop and to address the electro migration problem. Typically, the power distribution network uses the upper metal layers as they are thicker than lower metal layers. Hence, they have less resistance.
 ![Screenshot 2024-05-27 182204](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/cccdb1a6-8da6-4d1b-998f-06d878fd5903)
 # 3. Placement
+![Screenshot 2024-05-27 182305](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/692014b3-c17e-47ec-b3ac-092acd857e84)
+* **1. Global placement**
+* **2. Detailed placement**
+ 
+  ![Screenshot 2024-05-27 182538](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/caf7c606-ea8c-4551-a966-c8a880fe31cb)
+
+Global placement, optimal positions for all cells. Such positions are not necessarily legal so cells may overlap or may go off roads.
+In detailed placement the positions obtained from global placement are minimally altered to be legal.
+After placement comes routing, but before routing the signals we need to route the clock.
+# 4. Clock distribution network
+To deliver the clock to all sequential elements with minimum skew and in good shape. Clock skew means the arrival of the clock at different components at different times. Usually a tree like structure in which the clock source are the roots and the clocked elements are the leaves.
+
+![Screenshot 2024-05-27 203024](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/966ebbf1-8bd8-4a8c-a890-1e1a14ed0b6c)
+
