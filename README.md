@@ -97,3 +97,17 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 * After exicuting command run_floorplan if floorplan completed successfully the terminal looks like below image 
 
 ![VirtualBox_vsdworkshop_02_06_2024_17_46_38](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/72f9710a-ce68-4b60-add3-1684c5e8e867)
+
+* To visualize the constructed floorplan for our design we have to use open-source tool by writing the below command.
+  
+*magic -T /home/vsduser/desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+
+
+
+
+
+
+
+
+
+
