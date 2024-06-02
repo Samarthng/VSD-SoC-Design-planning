@@ -100,7 +100,7 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 
 * To visualize the constructed floorplan for our design we have to use open-source tool by writing the below command.
   
-*magic -T /home/vsduser/desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+* magic -T /home/vsduser/desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
 
 
 
