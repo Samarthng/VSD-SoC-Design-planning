@@ -77,3 +77,18 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 * It will take few minutes to complete Synthesis
 
 ![VirtualBox_vsdworkshop_28_05_2024_20_54_22](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/5adb6697-ea6c-4e67-99b4-8de9fca613fa)
+
+ # Task 1.
+
+ ## our objective is to find flop ratio
+
+  * Here D-flipflop is metioned as dfxtp-2 and the count is 1613
+
+![VirtualBox_vsdworkshop_02_06_2024_15_50_56](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/56f92d56-e625-41e5-ba0f-e32ba43d0992)
+
+* And total number of cell is 14876
+
+![VirtualBox_vsdworkshop_02_06_2024_15_51_25](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/e005314e-9f6c-49f0-bf8d-3a3ef8f7e973)
+
+* So after calculating we get flop ration 0.10842 which is 10.8 in percentage
+
