@@ -92,3 +92,8 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 
 * So after calculating we get flop ration 0.10842 which is 10.8 in percentage
 
+  # Day 2 : Floorplanning
+
+* After exicuting command run_floorplan if floorplan completed successfully the terminal looks like below image 
+
+![VirtualBox_vsdworkshop_02_06_2024_17_46_38](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/72f9710a-ce68-4b60-add3-1684c5e8e867)
