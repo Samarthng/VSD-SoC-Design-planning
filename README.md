@@ -164,3 +164,25 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 
 ![VirtualBox_vsdworkshop_03_06_2024_22_51_14](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/15fddfa3-3b4c-46c0-a474-38768242f582)
 
+* #### nmos
+
+![VirtualBox_vsdworkshop_03_06_2024_23_06_53](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/a279c4eb-8e1f-4b94-8f69-1b51cdafea6b)
+
+* #### pmos
+
+![VirtualBox_vsdworkshop_03_06_2024_23_07_08](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/d0605946-5e26-496e-8942-6b1362b14b65)
+
+* #### Drain of both nmos and pmos are connect to out
+
+![VirtualBox_vsdworkshop_03_06_2024_23_11_34](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/00038b7c-028e-4668-bd01-98fb3f82577a)
+
+* #### Source of pmos is connected to VDD
+
+![s pmos](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/57f5011a-12cb-4c1d-9274-4027961d3552)
+
+* #### Source of nmos is connected to GND
+
+![s nmos](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/985722ce-d3f8-4d3b-abf3-363fa06b26f6)
+
+
+
