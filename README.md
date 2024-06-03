@@ -126,8 +126,11 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 
 * When we see visually after writing **magic tool** command terminal looks like below immage
 
+![VirtualBox_vsdworkshop_03_06_2024_19_03_06](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/77cccb82-5258-423c-95d7-e03e0d6b1236)
 
+![VirtualBox_vsdworkshop_03_06_2024_19_06_59](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/dc825c85-7603-4808-9def-3ed4e315597b)
 
+![VirtualBox_vsdworkshop_03_06_2024_19_05_44](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/1e83add1-0035-4bd4-aced-e2639ca01bd2)
 
 
 
