@@ -152,4 +152,13 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 
 ![VirtualBox_vsdworkshop_03_06_2024_20_15_28](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/d3fe58df-38f3-4e7d-91af-e45c9a564c99)
 
+* To open the .mag file, we need the .tech file located in the pdks directory. Therefore, we should copy the .tech file from the pdks directory and paste it into the current directory.
+
+![VirtualBox_vsdworkshop_03_06_2024_22_43_40](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/0329dc51-4826-4caf-aa82-1957726d3a37)
+
+* Now we can see .tech file is copied in present directory
+
+![VirtualBox_vsdworkshop_03_06_2024_22_44_57](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/908edb2d-5587-4238-864d-fee50989c5fb)
+
+* We can visually see by giving command **magic -t sky130A.tech sky130_inv.mag &**
 
