@@ -132,6 +132,12 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 
 ![VirtualBox_vsdworkshop_03_06_2024_19_05_44](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/1e83add1-0035-4bd4-aced-e2639ca01bd2)
 
+# Day 3
+
+* We've completed the placement stage so far.
+* To understand library characterization, we'll focus on a simple cell, like an inverter, and perform transient analysis to extract timing information.
+* At the end we'll try placing this cell in the existing design, picorv32a, to see if it works.
+
 
 
 
