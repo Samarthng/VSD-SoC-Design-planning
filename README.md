@@ -144,6 +144,12 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 * First we need to thoroughly understand the cell. There's a GitHub repository with complete details about the inverter cell using Skywater.
 * We'll clone that repository to our local system.
 
+![Screenshot 2024-06-03 200055](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/723142a9-44d4-4b08-8ba6-6aeafb817e4d)
 
+* Copy the GitHub link and paste it into the terminal with the **git clone** command.
+*  Run command.
+*  After cloning, you'll see a new directory named vsdstdcelldesign.
+
+![VirtualBox_vsdworkshop_03_06_2024_20_15_28](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/d3fe58df-38f3-4e7d-91af-e45c9a564c99)
 
 
