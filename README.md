@@ -102,6 +102,22 @@ Routing grid is huge therefore a divide and conquer technique is applied.
   
 * magic -T /home/vsduser/desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
 
+![VirtualBox_vsdworkshop_02_06_2024_23_03_11](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/3892dea8-97c8-446f-a2e4-d09e1f211bb4)
+
+* Press **S** and **V** to select the entire layout and center it on the screen.
+* To zoom in on a specific area, **left-click** and **drag** to draw a box around the area you want to zoom into.
+* **Right-click** to lock the box.
+* Press **Z** to zoom into the selected area.
+
+* Zoom in further to see the pins clearly.
+* Press **S** and click on any pin to select it.
+* Look at the **tkcon** terminal.
+* Type **what** in **tkcon** to see the details of the selected pin.
+
+![VirtualBox_vsdworkshop_02_06_2024_23_19_39](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/5fd0c5ec-89f3-4001-804a-adb3ea07055d)
+![VirtualBox_vsdworkshop_02_06_2024_23_20_11](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/c909784e-fce9-4bb4-b32b-3236778f771a)
+
+
 
 
 
