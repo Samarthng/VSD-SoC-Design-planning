@@ -162,3 +162,5 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 
 * We can visually see by giving command **magic -t sky130A.tech sky130_inv.mag &**
 
+![VirtualBox_vsdworkshop_03_06_2024_22_51_14](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/15fddfa3-3b4c-46c0-a474-38768242f582)
+
