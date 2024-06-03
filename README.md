@@ -117,9 +117,14 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 ![VirtualBox_vsdworkshop_02_06_2024_23_19_39](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/5fd0c5ec-89f3-4001-804a-adb3ea07055d)
 ![VirtualBox_vsdworkshop_02_06_2024_23_20_11](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/c909784e-fce9-4bb4-b32b-3236778f771a)
 
+# placement
 
+* After completion of Floorplan we have to type command run_placement
+* Then the terminal will look like below image
 
+ ![VirtualBox_vsdworkshop_03_06_2024_16_23_23](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/32d8099b-b372-4e57-a5d7-57d04e0b3dc5)
 
+* When we see visually after writing **magic tool** command terminal looks like below immage
 
 
 
