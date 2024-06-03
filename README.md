@@ -138,6 +138,12 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 * To understand library characterization, we'll focus on a simple cell, like an inverter, and perform transient analysis to extract timing information.
 * At the end we'll try placing this cell in the existing design, picorv32a, to see if it works.
 
+**Lab steps to git clone the VSDSTDcell Design:**
+
+* We'll start with an example of a simple cell, an inverter, and try to insert it into the picorv32 design.
+* First we need to thoroughly understand the cell. There's a GitHub repository with complete details about the inverter cell using Skywater.
+* We'll clone that repository to our local system.
+
 
 
 
