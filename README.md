@@ -191,4 +191,18 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 ![ext2spice](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/0bb4994a-a043-433c-9ee2-2b6adfcd06fb)
 ![file created](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/1a709d22-c49f-4540-bc40-57c2617e2016)
 
+# Day 4
+
+#### First we need to follow these standard cell guidelines:
+* Place the input and output ports where vertical and horizontal tracks meet.
+* Make sure the width of the standard cell is a multiple of the track pitch.
+
+![day 4](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/405cc697-196d-49ff-8925-b45b89525884)
+![day 4 1](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/19697052-115a-4779-92d1-ba87ca98c442)
+
+
+
+
+
+
 
