@@ -184,5 +184,11 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 
 ![s nmos](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/985722ce-d3f8-4d3b-abf3-363fa06b26f6)
 
+* To know logical function of Inverter we need to extract the spice and we will do simulation on spice
+
+![extract](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/82af3042-daef-45ee-953f-2796a0285ddb)
+![ectracted](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/51b50f0f-0be2-41f1-867d-deed3004c3c7)
+![ext2spice](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/0bb4994a-a043-433c-9ee2-2b6adfcd06fb)
+![file created](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/1a709d22-c49f-4540-bc40-57c2617e2016)
 
 
