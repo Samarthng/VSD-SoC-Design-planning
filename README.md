@@ -206,6 +206,9 @@ Routing grid is huge therefore a divide and conquer technique is applied.
 
  ![d4 3](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/6d1047a4-6f5e-4fcc-b4b0-941b629f8d60)
 ![d4 4](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/987549f0-eae9-4f25-a11e-c58ba709d14f)
+
+* By giving command **lef write** we create lef file like given below
+  
 ![d4 5](https://github.com/Samarthng/VSD-SoC-Design-planning/assets/170659984/40f901d3-aaae-4b90-a6a5-8bbedf108e84)
 
 
